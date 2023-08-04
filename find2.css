@@ -1,0 +1,51 @@
+.tab{
+background: #fff4;
+position: relative;
+top:170px ;
+left:180px ;
+}
+.menu{
+    position: relative;
+    bottom: 50px;
+    right: 50px;
+}
+body{
+    background: url(html_table.jpg);
+   width: 900px;
+}
+h5{
+    font-family: "Press Start 2P";
+    position: relative;
+    top:140px;
+    left:350px
+}
+li{
+    display: inline;
+    padding: 15px;
+    font-family: "Permanent Marker";
+    padding: 15px 15px;
+     border: 20px;
+     border-radius: 5px;
+   
+   
+}
+p{
+    font-size: 25px;
+    font-weight: 25px;
+    color: red;
+    font-family: "Permanent Marker";
+    width: 140px;
+    margin-left: 1200px;
+    position: relative;
+    bottom: 80px;
+    right: 30px;
+   
+}
+.tab2{
+    position: relative;
+    bottom: 40px;
+    right:30px ;
+}
+thead{
+    background-color: #fff4;
+}

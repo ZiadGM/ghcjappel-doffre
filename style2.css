@@ -1,0 +1,67 @@
+
+p{
+    font-size: 25px;
+    font-weight: 25px;
+    color: red;
+    font-family: "Permanent Marker";
+    margin-left: 1200px;
+    position: relative;
+    bottom: 40px;
+   
+}
+body{
+    background: url("html_table.jpg");
+    
+}
+
+table, td,th{
+    padding: 2rem;
+}
+
+li{
+    display: inline;
+    padding: 15px;
+    font-family: "Permanent Marker";
+    padding: 15px 15px;
+     border: 20px;
+     border-radius: 5px;
+   
+   
+}
+thead th{
+    width: 50%;
+    position: sticky;
+    left:0px;
+    top:0px;
+    background: #d5d1dedf;
+
+}
+
+h2{
+    font-family: "Press Start 2P";
+    margin-left: 455px;
+    padding: 20px;
+   
+}
+.somme{
+    width: 52vw;
+    height: 40vw;
+    background-color: #fff5;
+    backdrop-filter: blur(7px);
+    margin-left: 370px;
+    box-shadow: 0 .4rem .8rem #0005;
+    border-radius: .8rem;
+    overflow: hidden;
+   
+
+}
+.table_FD {
+    background: #fffB;
+    border-radius: 1rem;
+    max-height: calc(89% - .8rem);
+    width: 92%;
+    position: relative;
+    top: .9rem;
+    left: 2rem;
+    overflow: auto;
+}

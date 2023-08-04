@@ -1,0 +1,85 @@
+body{
+  
+  background: url("html_table.jpg");
+}
+.object{
+    max-width: 600px;
+    max-height: calc(89% - .8rem);
+    width:90%;
+    margin:0 auto;
+    padding:50px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    background-color:#fff4;
+    border-radius: .8rem;
+}
+.ad{
+    margin-bottom:30px;
+
+}
+p{
+  font-size: 25px;
+  font-weight: 25px;
+  color: red;
+  font-family: "Permanent Marker";
+  margin-left: 1200px;
+  position: relative;
+  bottom: 130px;
+ 
+}
+s
+/* Custom styles for the alert */
+.alert {
+    /* Control the size of the alert */
+    font-size: 16px;
+    padding: 10px;
+    margin-bottom: 10px;
+  width :500px;
+    margin-left:500px;
+  
+    /* Customize the colors and background */
+    background-color: #f44336;
+    color: white;
+    border: 1px solid #f44336;
+    border-radius: 4px;
+    
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  li{
+    display: inline;
+    padding: 15px;
+    font-family: "Permanent Marker";
+    padding: 15px 15px;
+     border: 20px;
+     border-radius: 5px;
+   margin-bottom: 300px;
+   
+}
+.object .ad:first-child .form-control {
+  width: 500px; /* Adjust the width as per your requirement */
+  height: 200px; /* Adjust the height as per your requirement */
+  padding-top: 40px; /* Create space for the moved placeholder */
+  position: relative; /* Add relative positioning */
+}
+.object .ad:first-child .form-control::placeholder {
+  position: absolute;
+  top: 90px;
+  left: 10px; /* Adjust the left position as needed */
+  font-size: 14px; /* Adjust the font size of the moved placeholder */
+  color: #999; /* Adjust the color of the moved placeholder */
+}
+.H h3{
+  font-family: "Press Start 2P";
+  padding:  1px;
+  margin-left: 300px;
+  margin-top: 60px;
+  position: relative;
+  bottom: 15px;
+}
+.nzl{
+ position: relative;
+ bottom :93px;
+}.s{
+ 
+  margin-bottom: 90px;
+}
+
